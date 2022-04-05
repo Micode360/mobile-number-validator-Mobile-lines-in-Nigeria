@@ -10,8 +10,6 @@ const numObject = [
 ]
 
 
-console.table(numObject);
-
 const inputNum = document.querySelector('#num-input');
 const output = document.querySelector('#output');
 
